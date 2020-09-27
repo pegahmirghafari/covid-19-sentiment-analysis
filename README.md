@@ -15,7 +15,7 @@ I get it, we don't care about other people, why should we?! but why do we not ca
 And don't get me started with the "this is just like flue" "flu kills more people." why is this still an argument?! we have a cure. A vaccine for the flu, yet the number of deaths in a year associated with flu, is just a fraction of the number of COVID fatalities in just the six months. 
 Lastly, I can't help but compare COVID to STDs; sure, you may not die from the, but the effects are lifelong. I don't see people being careless with their protections when it comes to STDs, and you can't just get STDs by walking around or breathing the same air. Not wearing a mask is probably a good indicator of what type of person they are, and I am not one to socialize with them. 
 ## PLEASE, ACT LIKE A DECENT HUMAN BEING, WEAR YOUR PROTECTIONS, KEEP YOURSELF SAVE! 
-
+___
 
 ## Index:
 - [Data gathering](#Data-Gathering)
@@ -23,7 +23,7 @@ Lastly, I can't help but compare COVID to STDs; sure, you may not die from the, 
 - [The models](#Modeling)
 - [Recommender](#Recommender)
 - [Flask API](#Flask-API)
-    
+___    
 
 
 ## Data Gathering:
