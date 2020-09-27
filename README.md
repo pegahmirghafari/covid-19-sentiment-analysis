@@ -34,26 +34,26 @@ ___
 <br/> 
 here are some of the most used words in the datasets. 
 
-<img src="./assets/word-freq-in-headlines.png" width="100%" height="100%">
+<img src="./assets/word-freq-in-headlines.png" width="50%" height="50%">
 **frequency of words used when using Count-Vectorizer **  
 
 
-<img src="./assets/word-freq-in-headlines-reg-tok.png" width="100%" height="100%"> 
+<img src="./assets/word-freq-in-headlines-reg-tok.png" width="50%" height="50%"> 
 **frequency of words used when tokenizing words** 
 
-<img src="./assets/word-freq-in-true-headlines-regtok.png" width="100%" height="100%"> 
+<img src="./assets/word-freq-in-true-headlines-regtok.png" width="50%" height="50%"> 
 **frequency of words in true information when tokenizing words** 
 
 
-<img src="./assets/avg-pos-neg-cost-list.png" width="100%" height="100%"> 
+<img src="./assets/avg-pos-neg-cost-list.png" width="50%" height="50%"> 
 **average sentiment in true, false, and misleading information, using a custom  list of words** 
 
 
-<img src="./assets/avg-pos-neg-vader.png" width="100%" height="100%"> 
+<img src="./assets/avg-pos-neg-vader.png" width="50%" height="50%"> 
 **average sentiment in true, false, and misleading information, using vader** 
 
 
-<img src="./assets/compound-catplot.png" width="100%" height="100%"> 
+<img src="./assets/compound-catplot.png" width="50%" height="50%"> 
 **a catplot of compound score of informations** 
 
 
