@@ -1,5 +1,8 @@
 # covid-19-sentiment-analysis
+
 ***creating an app that identifies misinformation with a 91.4% accuracy***
+
+
 *Pegah Mirghafari*
 ___
 
@@ -34,14 +37,14 @@ ___
 <br/> 
 here are some of the most used words in the datasets. 
 
-<img src="./assets/word-freq-in-headlines.png" width="60%" height="40%">
+<img src="./assets/word-freq-in-headlines.png" width="40%" height="20%">
 **frequency of words used when using Count-Vectorizer **  
 
 
-<img src="./assets/word-freq-in-headlines-reg-tok.png" width="60%" height="40%"> 
+<img src="./assets/word-freq-in-headlines-reg-tok.png" width="40%" height="20%"> 
 **frequency of words used when tokenizing words** 
 
-<img src="./assets/word-freq-in-true-headlines-regtok.png" width="60%" height="40%"> 
+<img src="./assets/word-freq-in-true-headlines-regtok.png" width="40%" height="20%"> 
 **frequency of words in true information when tokenizing words** 
 
 
