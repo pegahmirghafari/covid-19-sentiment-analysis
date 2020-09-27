@@ -34,7 +34,7 @@ ___
 - and used [Kaggle](https://www.kaggle.com/ambityga/covid19misinformation) for false and missleading data. 
 
 <br/>
-___
+
 
 ## Exploratory Data Analysis
 
