@@ -28,7 +28,7 @@ ___
 
 ## Data Gathering:
 <br/>
-I scareped reddit and only kept the texts, the WHO website for correct information, and used [poynter](https://www.kaggle.com/ambityga/covid19misinformation) for false and missleading data. 
+I scareped reddit and only kept the texts, the WHO website for correct information, and used [poynter](https://www.kaggle.com/ambityga/covid19misinformation/) for false and missleading data. 
 
 ___
 
