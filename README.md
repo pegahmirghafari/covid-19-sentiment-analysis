@@ -15,7 +15,7 @@ I get it, we don't care about other people, why should we?! but why do we not ca
 And don't get me started with the "this is just like flue" "flu kills more people." why is this still an argument?! we have a cure. A vaccine for the flu, yet the number of deaths in a year associated with flu, is just a fraction of the number of COVID fatalities in just the six months. 
 Lastly, I can't help but compare COVID to STDs; sure, you may not die from the, but the effects are lifelong. I don't see people being careless with their protections when it comes to STDs, and you can't just get STDs by walking around or breathing the same air. Not wearing a mask is probably a good indicator of what type of person they are, and I am not one to socialize with them. 
 ## PLEASE, ACT LIKE A DECENT HUMAN BEING, WEAR YOUR PROTECTIONS, KEEP YOURSELF SAVE! 
-___
+
 
 ## Index:
 - [Data gathering](#Data-Gathering)
@@ -24,7 +24,7 @@ ___
 - [Recommender](#Recommender)
 - [Flask API](#Flask-API)
     
-___
+
 
 ## Data Gathering:
 <br/>
@@ -37,8 +37,8 @@ ___
 
 
 ## Exploratory Data Analysis
-
 <br/> 
+
 here are some of the most used words in the datasets. 
 
 <img src="./assets/word-freq-in-headlines.png" width="40%" height="20%">
@@ -69,9 +69,10 @@ catplot of compound score of informations
 distribution of compound scores of informations
 <br/> 
 
-___
+
 ## Modeling
 <br/> 
+
 created a pipeling and by grid searching I fitted 6 models. here are The breakouts 
 
 <img src="./assets/lrCV.png" width="40%" height="40%">
@@ -110,7 +111,7 @@ Training Score: 0.906
 Testing Score: 0.852  
 <br/> 
 
-___
+
 ## Flask API
 <br/> 
 
