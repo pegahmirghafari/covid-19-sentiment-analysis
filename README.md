@@ -34,7 +34,7 @@ ___
 - and used [Kaggle](https://www.kaggle.com/ambityga/covid19misinformation) for false and missleading data. 
 
 <br/>
-
+___
 
 ## Exploratory Data Analysis
 <br/> 
@@ -68,7 +68,7 @@ catplot of compound score of informations
 <img src="./assets/compound-dist.png" width="100%" height="100%">
 distribution of compound scores of informations
 <br/> 
-
+___
 
 ## Modeling
 <br/> 
@@ -110,7 +110,7 @@ TF-IDF Vectorizer and Random Forest
 Training Score: 0.906
 Testing Score: 0.852  
 <br/> 
-
+___
 
 ## Flask API
 <br/> 
@@ -119,3 +119,4 @@ Testing Score: 0.852
 - deployed the app on heroku, because I want to save the world, not lose a furtuone
 - changed my domain name, to my website's name, because I'm paying for it, might as wll use it.
 - **you can test out the [app here](http://misinfo.shesarocknroller.com/)**
+___
