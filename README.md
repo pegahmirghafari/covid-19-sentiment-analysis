@@ -16,7 +16,6 @@ And don't get me started with the "this is just like flue" "flu kills more peopl
 Lastly, I can't help but compare COVID to STDs; sure, you may not die from the, but the effects are lifelong. I don't see people being careless with their protections when it comes to STDs, and you can't just get STDs by walking around or breathing the same air. Not wearing a mask is probably a good indicator of what type of person they are, and I am not one to socialize with them. 
 ## PLEASE, ACT LIKE A DECENT HUMAN BEING, WEAR YOUR PROTECTIONS, KEEP YOURSELF SAVE!
 <br/>
-___
 
 ## Index:
 <br/>
@@ -49,37 +48,31 @@ here are some of the most used words in the datasets.
 <img src="./assets/word-freq-in-headlines.png" width="40%" height="20%">
 frequency of words used when using Count-Vectorizer
 <br/>  
-___
 
 
 <img src="./assets/word-freq-in-headlines-reg-tok.png" width="40%" height="20%">
 frequency of words used when tokenizing words 
 <br/> 
-___
 
 
 <img src="./assets/word-freq-in-true-headlines-regtok.png" width="40%" height="20%">
 frequency of words in true information when tokenizing words
 <br/> 
-___
 
 
 <img src="./assets/avg-pos-neg-cost-list.png" width="50%" height="50%">
 average sentiment in true, false, and misleading information, using a custom  list of words
 <br/> 
-___
 
 
 <img src="./assets/avg-pos-neg-vader.png" width="50%" height="50%">
 average sentiment in true, false, and misleading information, using vader 
 <br/> 
-___
 
 
 <img src="./assets/compound-catplot.png" width="50%" height="50%">
 catplot of compound score of informations
 <br/> 
-___
 
 
 <img src="./assets/compound-dist.png" width="100%" height="100%">
@@ -98,7 +91,6 @@ Count Vectorizer and Logistic Regression CV
 Training Score: 0.990
 Testing Score: 0.915 
 <br/> 
-___
 
 
 <img src="./assets/lrtf.png" width="40%" height="40%">
@@ -106,7 +98,6 @@ TF-IDF Vectorizer and Logistic Regression CV
 Training Score: 0.994
 Testing Score: 0.913
 <br/> 
-___
 
 
 <img src="./assets/MNBcv.png" width="40%" height="40%">
@@ -114,7 +105,6 @@ Count Vectorizer and Multinomial Naive Bayes
 Training Score: 0.941
 Testing Score: 0.909
 <br/> 
-___
 
 
 <img src="./assets/MNBtf.png" width="40%" height="40%">
@@ -122,7 +112,6 @@ TF-IDF Vectorizer and Multinomial Naive Bayes
 Training Score: 0.941
 Testing Score: 0.892 
 <br/> 
-___
 
 
 <img src="./assets/RFCV.png" width="40%" height="40%">
@@ -131,7 +120,6 @@ Training Score: 0.883
 Testing Score: 0.850 
 <br/> 
 
-___
 
 <img src="./assets/RFTF.png" width="40%" height="40%">
 TF-IDF Vectorizer and Random Forest
