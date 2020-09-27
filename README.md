@@ -28,7 +28,7 @@ ___
 
 ## Data Gathering:
 <br/>
-I scareped reddit and only kept the texts, the WHO website for correct information, and used [Poynter](https://www.kaggle.com/ambityga/covid19misinformation) for false and missleading data. 
+I scareped reddit and only kept the texts, the WHO website for correct information, and used [Poynter ](https://www.kaggle.com/ambityga/covid19misinformation) for false and missleading data. 
 
 ___
 
@@ -71,45 +71,39 @@ ___
 created a pipeling and by grid searching I fitted 6 models. here are The breakouts 
 
 <img src="./assets/lrCV.png" width="40%" height="40%">
-**Count Vectorizer and Logistic Regression CV
+Count Vectorizer and Logistic Regression CV
 Training Score: 0.990
-Testing Score: 0.915**  
-
+Testing Score: 0.915 
 <br/> 
 
 <img src="./assets/lrtf.png" width="40%" height="40%">
-**TF-IDF Vectorizer and Logistic Regression CV
+TF-IDF Vectorizer and Logistic Regression CV
 Training Score: 0.994
-Testing Score: 0.913** 
-
+Testing Score: 0.913
 <br/> 
 
 <img src="./assets/MNBcv.png" width="40%" height="40%">
-**Count Vectorizer and Multinomial Naive Bayes
+Count Vectorizer and Multinomial Naive Bayes
 Training Score: 0.941
-Testing Score: 0.909** 
-
+Testing Score: 0.909
 <br/> 
 
 <img src="./assets/MNBtf.png" width="40%" height="40%">
-**TF-IDF Vectorizer and Multinomial Naive Bayes
+TF-IDF Vectorizer and Multinomial Naive Bayes
 Training Score: 0.941
-Testing Score: 0.892**  
-
+Testing Score: 0.892 
 <br/> 
 
 <img src="./assets/RFCV.png" width="40%" height="40%">
-**Count Vectorizer and Random Forest
+Count Vectorizer and Random Forest
 Training Score: 0.883
-Testing Score: 0.850**  
-
+Testing Score: 0.850 
 <br/> 
 
 <img src="./assets/RFTF.png" width="40%" height="40%">
-**TF-IDF Vectorizer and Random Forest
+TF-IDF Vectorizer and Random Forest
 Training Score: 0.906
-Testing Score: 0.852**  
-
+Testing Score: 0.852  
 <br/> 
 
 ___
@@ -119,4 +113,4 @@ ___
 - I just created a flask api, and imported my models via, pickle. 
 - deployed the app on heroku, because I want to save the world, not lose a furtuone
 - changed my domain name, to my website's name, because I'm paying for it, might as wll use it.
-**- you can test out the [app here](http://misinfo.shesarocknroller.com/)**
+- **you can test out the [app here](http://misinfo.shesarocknroller.com/)**
