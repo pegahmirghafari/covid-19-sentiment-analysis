@@ -23,6 +23,7 @@ ___
 - [The models](#Modeling)
 - [Recommender](#Recommender)
 - [Flask API](#Flask-API)
+
 ___    
 
 
@@ -34,6 +35,7 @@ ___
 - and used [Kaggle](https://www.kaggle.com/ambityga/covid19misinformation) for false and missleading data. 
 
 <br/>
+
 ___
 
 ## Exploratory Data Analysis
@@ -68,6 +70,7 @@ catplot of compound score of informations
 <img src="./assets/compound-dist.png" width="100%" height="100%">
 distribution of compound scores of informations
 <br/> 
+
 ___
 
 ## Modeling
@@ -110,6 +113,7 @@ TF-IDF Vectorizer and Random Forest
 Training Score: 0.906
 Testing Score: 0.852  
 <br/> 
+
 ___
 
 ## Flask API
