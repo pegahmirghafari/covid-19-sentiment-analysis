@@ -41,22 +41,21 @@ here are some of the most used words in the datasets.
 <br/>   
 
 <img src="./assets/word-freq-in-headlines-reg-tok.png" width="40%" height="20%">**frequency of words used when tokenizing words** 
-
 <br/> 
+
 <img src="./assets/word-freq-in-true-headlines-regtok.png" width="40%" height="20%">**frequency of words in true information when tokenizing words** 
-
 <br/> 
+
 <img src="./assets/avg-pos-neg-cost-list.png" width="50%" height="50%">**average sentiment in true, false, and misleading information, using a custom  list of words** 
-
 <br/> 
+
 <img src="./assets/avg-pos-neg-vader.png" width="50%" height="50%">**average sentiment in true, false, and misleading information, using vader** 
 
 <br/> 
 <img src="./assets/compound-catplot.png" width="50%" height="50%">**a catplot of compound score of informations** 
-
 <br/> 
-<img src="./assets/compound-dist.png" width="100%" height="100%">**distribution of compound scores of informations** 
 
+<img src="./assets/compound-dist.png" width="100%" height="100%">**distribution of compound scores of informations** 
 <br/> 
 
 ___
