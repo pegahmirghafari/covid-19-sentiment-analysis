@@ -37,25 +37,32 @@ ___
 <br/> 
 here are some of the most used words in the datasets. 
 
-<img src="./assets/word-freq-in-headlines.png" width="40%" height="20%">**frequency of words used when using Count-Vectorizer**  
+<img src="./assets/word-freq-in-headlines.png" width="40%" height="20%">
+**frequency of words used when using Count-Vectorizer**  
 <br/>   
 
-<img src="./assets/word-freq-in-headlines-reg-tok.png" width="40%" height="20%">**frequency of words used when tokenizing words** 
+<img src="./assets/word-freq-in-headlines-reg-tok.png" width="40%" height="20%">
+**frequency of words used when tokenizing words** 
 <br/> 
 
-<img src="./assets/word-freq-in-true-headlines-regtok.png" width="40%" height="20%">**frequency of words in true information when tokenizing words** 
+<img src="./assets/word-freq-in-true-headlines-regtok.png" width="40%" height="20%">
+**frequency of words in true information when tokenizing words** 
 <br/> 
 
-<img src="./assets/avg-pos-neg-cost-list.png" width="50%" height="50%">**average sentiment in true, false, and misleading information, using a custom  list of words** 
+<img src="./assets/avg-pos-neg-cost-list.png" width="50%" height="50%">
+**average sentiment in true, false, and misleading information, using a custom  list of words** 
 <br/> 
 
-<img src="./assets/avg-pos-neg-vader.png" width="50%" height="50%">**average sentiment in true, false, and misleading information, using vader** 
+<img src="./assets/avg-pos-neg-vader.png" width="50%" height="50%">
+**average sentiment in true, false, and misleading information, using vader** 
 <br/> 
 
-<img src="./assets/compound-catplot.png" width="50%" height="50%">**a catplot of compound score of informations** 
+<img src="./assets/compound-catplot.png" width="50%" height="50%">
+**a catplot of compound score of informations** 
 <br/> 
 
-<img src="./assets/compound-dist.png" width="100%" height="100%">**distribution of compound scores of informations** 
+<img src="./assets/compound-dist.png" width="100%" height="100%">
+**distribution of compound scores of informations** 
 <br/> 
 
 ___
@@ -63,37 +70,40 @@ ___
 <br/> 
 created a pipeling and by grid searching I fitted 6 models. here are The breakouts 
 
-<img src="./assets/lrCV.png" width="100%" height="100%">
+<img src="./assets/lrCV.png" width="40%" height="40%">
 **Count Vectorizer and Logistic Regression CV
 Training Score: 0.990
-Testing Score: 0.915 **  
+Testing Score: 0.915**  
+<br/> 
 
-<img src="./assets/lrtf.png" width="100%" height="100%">
+<img src="./assets/lrtf.png" width="40%" height="40%">
 **TF-IDF Vectorizer and Logistic Regression CV
 Training Score: 0.994
-Testing Score: 0.913 ** 
+Testing Score: 0.913** 
+<br/> 
 
-<img src="./assets/MNBcv.png" width="100%" height="100%">
+<img src="./assets/MNBcv.png" width="40%" height="40%">
 **Count Vectorizer and Multinomial Naive Bayes
 Training Score: 0.941
-Testing Score: 0.909 ** 
+Testing Score: 0.909** 
+<br/> 
 
-
-<img src="./assets/MNBtf.png" width="100%" height="100%">
+<img src="./assets/MNBtf.png" width="40%" height="40%">
 **TF-IDF Vectorizer and Multinomial Naive Bayes
 Training Score: 0.941
 Testing Score: 0.892**  
+<br/> 
 
-<img src="./assets/RFCV.png" width="100%" height="100%">
+<img src="./assets/RFCV.png" width="40%" height="40%">
 **Count Vectorizer and Random Forest
 Training Score: 0.883
 Testing Score: 0.850**  
+<br/> 
 
-<img src="./assets/RFTF.png" width="100%" height="100%">
+<img src="./assets/RFTF.png" width="40%" height="40%">
 **TF-IDF Vectorizer and Random Forest
 Training Score: 0.906
 Testing Score: 0.852**  
-
 <br/> 
 
 ___
