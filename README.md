@@ -14,11 +14,12 @@ It's like once you get to adulthood, you have to drop decency at the door and pi
 I get it, we don't care about other people, why should we?! but why do we not care for ourselves and our loved ones?! COVID enters a body through air droplets. All we have to do to get it is breathe the same air as someone who has it. I get that not everyone wants to be a hero and save lives. All we ask of you is to wear a mask and save yours! But perhaps this is natural selection in progress.
 And don't get me started with the "this is just like flue" "flu kills more people." why is this still an argument?! we have a cure. A vaccine for the flu, yet the number of deaths in a year associated with flu, is just a fraction of the number of COVID fatalities in just the six months. 
 Lastly, I can't help but compare COVID to STDs; sure, you may not die from the, but the effects are lifelong. I don't see people being careless with their protections when it comes to STDs, and you can't just get STDs by walking around or breathing the same air. Not wearing a mask is probably a good indicator of what type of person they are, and I am not one to socialize with them. 
-## PLEASE, ACT LIKE A DECENT HUMAN BEING, WEAR YOUR PROTECTIONS, KEEP YOURSELF SAVE! 
-___
+## PLEASE, ACT LIKE A DECENT HUMAN BEING, WEAR YOUR PROTECTIONS, KEEP YOURSELF SAVE!
+<br/>
 
 ## Index:
 <br/>
+
 - [Data gathering](#Data-Gathering)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [The models](#Modeling)
