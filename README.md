@@ -50,8 +50,8 @@ here are some of the most used words in the datasets.
 <br/> 
 
 <img src="./assets/avg-pos-neg-vader.png" width="50%" height="50%">**average sentiment in true, false, and misleading information, using vader** 
-
 <br/> 
+
 <img src="./assets/compound-catplot.png" width="50%" height="50%">**a catplot of compound score of informations** 
 <br/> 
 
