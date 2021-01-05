@@ -135,5 +135,5 @@ ___
 - I just created a flask api, and imported my models via, pickle. 
 - deployed the app on heroku, because I want to save the world, not lose a furtuone
 - changed my domain name, to my website's name, because I'm paying for it, might as wll use it.
-- **you can test out the [app here](http://misinfo.shesarocknroller.com/)**
+- **you can test out the [app here](http://misinfo.pegahmirghafari.com/)**
 ___
